@@ -1,0 +1,3 @@
+[submodule "monitorss"]
+	path = monitorss
+	url = git@github.com:synzen/MonitoRSS-Clone.git
